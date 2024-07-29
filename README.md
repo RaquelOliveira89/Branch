@@ -4,4 +4,4 @@
 >Em muitas ferramentas versionamento, este é um processo um tanto difícil, 
 >geralmente exigindo que você crie uma nova cópia do diretório do código-fonte, o que pode demorar muito em projetos maiores.
 >
->[Imagem do GitHub](Documents\baixados.png)
+>[Imagem do GitHub](baixados.png)
